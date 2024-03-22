@@ -1,4 +1,4 @@
 # preco_bit_coin
 
-Projeto simples usando uma API para ver o preço do Bitcoin.
+Projeto simples consumindo uma API para ver o preço do Bitcoin atualizado.
 
